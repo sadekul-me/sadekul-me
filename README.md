@@ -26,7 +26,7 @@ My long-term goal is to become a globally competitive software engineer capable 
 ## Technical Stack
 
 **Languages**  
-C • C++ • C#
+C • C++ • C# • JavaScript
 
 **Backend & Database**  
 .NET Web API • RESTful Services • MS SQL Server
