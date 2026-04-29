@@ -130,7 +130,7 @@ To become a globally strong software engineer capable of building:
 ## 📫 Connect
 
 Portfolio: https://sadekulislam.netlify.app  
-LinkedIn: https://linkedin.com/in/sadekul-me  
+LinkedIn: https://www.linkedin.com/in/sadekulislam-dev   
 Email: sadekul.dev@gmail.com  
 
 ---
