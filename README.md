@@ -1,65 +1,133 @@
 # Sadekul Islam (Lì Ào / 利奥)
 
-Software Engineering Student  
-Backend Systems • Data Structures & Algorithms • Scalable Architecture  
+> Software Engineer in Training | Backend Systems | AI + Scalable Architecture | Problem Solver
 
 ---
 
-## About
+## 🧠 Engineering Philosophy
 
-I am a Software Engineering student at Wuxi University of Technology, China, focused on building strong computer science fundamentals and engineering scalable backend systems.
+I focus on building **real-world scalable systems**, not just writing scripts.
 
-My long-term goal is to become a globally competitive software engineer capable of designing clean, efficient, and maintainable software systems.
-
----
-
-## Core Focus
-
-- Data Structures & Algorithms (C++)
-- Problem Solving in C
-- Backend Development with C# and .NET
-- Database Design & Query Optimization
-- System Design Fundamentals
+- Think in systems, not features  
+- Prefer simplicity over complexity  
+- Optimize for performance + readability  
+- Design before coding  
+- Always consider edge cases and scalability  
 
 ---
 
-## Technical Stack
+## 🎯 Current Focus
 
-**Languages**  
-C • C++ • C# • JavaScript
-
-**Backend & Database**  
-.NET Web API • RESTful Services • MS SQL Server
-
-**Frontend**  
-React • HTML5 • CSS3 • Tailwind CSS
-
-**Tools**  
-Git • GitHub • Visual Studio • VS Code
+- Data Structures & Algorithms (C++ + Python)
+- Problem Solving & Competitive Programming
+- Backend System Design with .NET & Python
+- REST API Architecture & Optimization
+- Distributed system thinking (early stage)
 
 ---
 
-## Engineering Principles
+## 🧩 Tech Stack
 
-- Writing clean, readable, and maintainable code  
-- Applying OOP and SOLID principles  
-- Designing structured project architectures  
-- Handling edge cases and defensive programming  
-- Awareness of time and space complexity  
+### 💻 Programming Languages
+C • C++ • C# • JavaScript • **Python**
 
 ---
 
-## Selected Work
+### ⚙️ Backend & Systems
 
-- Structured DSA Practice Repository (C++)
-- Scalable .NET REST API Project
-- Full-Stack React Application
-
-Repositories are organized with proper documentation, folder structure, and clear commit history.
+- .NET Web API (Production REST APIs)
+- Python Backend (FastAPI / Automation / Scripts)
+- MS SQL Server (Schema Design + Query Optimization)
+- Authentication, Middleware, API Design
+- System Architecture Fundamentals
 
 ---
 
-## Contact
+### 🌐 Frontend
+
+React • Tailwind CSS • HTML5 • CSS3  
+Component-based UI • Responsive Design
+
+---
+
+### 🧠 Python Expertise (NEW CORE LAYER)
+
+- Backend APIs (FastAPI / Flask basics)
+- Automation Scripts
+- AI / ML Integration (API-level)
+- File processing & system scripting
+- Performance-focused Python coding
+
+---
+
+### 🛠 Tools & Workflow
+
+Git • GitHub • VS Code • Visual Studio  
+Postman • Debugging • API Testing
+
+---
+
+## ⚙️ Engineering Principles
+
+- Clean Code > Clever Code  
+- Modular architecture over monolithic logic  
+- Performance-aware development  
+- Strong typing mindset even in dynamic languages  
+- Separation of concerns in all systems  
+
+---
+
+## 📌 Selected Work
+
+### 🧠 DSA & Problem Solving System
+C++ + Python structured problem-solving repository  
+Focus: recursion, DP, graphs, optimization
+
+---
+
+### 🔧 Backend API System (.NET + Python)
+Hybrid backend architecture:
+- .NET for core APIs
+- Python for automation & utility services
+
+---
+
+### ⚡ Automation Engine (Python)
+System-level scripts for:
+- file processing  
+- workflow automation  
+- API data handling  
+
+---
+
+### 🌐 Full Stack Application
+React frontend + backend APIs  
+Clean architecture + scalable structure
+
+---
+
+## 📊 Currently Improving
+
+- Advanced DSA (Graph, DP, Greedy)
+- System Design (Low-level + High-level)
+- Python backend scaling patterns
+- API optimization & latency reduction
+- Clean architecture in multi-language systems
+
+---
+
+## 🌍 Vision
+
+To become a globally strong software engineer capable of building:
+
+- High-performance backend systems  
+- AI-integrated applications  
+- Scalable distributed architectures  
+- Production-grade software systems  
+
+---
+
+## 📫 Connect
 
 Portfolio: https://sadekulislam.netlify.app  
 LinkedIn: https://linkedin.com/in/sadekul-me  
@@ -67,4 +135,6 @@ Email: sadekul.dev@gmail.com
 
 ---
 
-“Building discipline. Writing clean code. Thinking in systems.”
+## 🧭 Closing Thought
+
+> “Real engineers don’t just write code. They design systems that survive scale, time, and complexity.”
