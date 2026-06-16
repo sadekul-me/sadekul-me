@@ -1,140 +1,245 @@
+<div align="center">
+
 # Sadekul Islam (Lì Ào / 利奥)
 
-> Software Engineer in Training | Backend Systems | AI + Scalable Architecture | Problem Solver
+### Software Engineer • CTO at AnyWin Human Tech Limited • Full-Stack Product Builder
+
+Building AI-powered systems, scalable platforms, and international digital ecosystems.
+
+<br>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-black?style=for-the-badge&logo=vercel)](https://sadekulislam.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sadekulislam-dev)
+[![GitHub](https://img.shields.io/badge/GitHub-Projects-black?style=for-the-badge&logo=github)](https://github.com/sadekul-me)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:sadekul.dev@gmail.com)
+
+</div>
 
 ---
 
-## 🧠 Engineering Philosophy
+# About Me
 
-I focus on building **real-world scalable systems**, not just writing scripts.
+I am a Software Engineering student at Wuxi University of Technology, China, and currently serve as CTO & Shareholder at AnyWin Human Tech Limited.
 
-- Think in systems, not features  
-- Prefer simplicity over complexity  
-- Optimize for performance + readability  
-- Design before coding  
-- Always consider edge cases and scalability  
+My work focuses on architecting scalable software systems, multilingual platforms, AI-powered applications, and modern digital products.
+
+I enjoy solving engineering problems that sit at the intersection of technology, product design, and real-world user needs.
 
 ---
 
-## 🎯 Current Focus
+# Current Mission
 
-- Data Structures & Algorithms (C++ + Python)
-- Problem Solving & Competitive Programming
-- Backend System Design with .NET & Python
-- REST API Architecture & Optimization
-- Distributed system thinking (early stage)
-
----
-
-## 🧩 Tech Stack
-
-### 💻 Programming Languages
-C • C++ • C# • JavaScript • **Python**
+- Building international-scale digital platforms
+- Engineering AI-powered applications
+- Advancing in System Design & Architecture
+- Mastering Data Structures & Algorithms
+- Developing scalable backend ecosystems
+- Creating technology with long-term impact
 
 ---
 
-### ⚙️ Backend & Systems
+# Core Technologies
 
-- .NET Web API (Production REST APIs)
-- Python Backend (FastAPI / Automation / Scripts)
-- MS SQL Server (Schema Design + Query Optimization)
-- Authentication, Middleware, API Design
-- System Architecture Fundamentals
+## Languages
 
----
+```txt
+C • C++ • C# • JavaScript • TypeScript • Python • SQL
+```
 
-### 🌐 Frontend
+## Frontend
 
-React • Tailwind CSS • HTML5 • CSS3  
-Component-based UI • Responsive Design
+```txt
+React
+Next.js
+Tailwind CSS
+HTML5
+CSS3
+Responsive UI Engineering
+```
 
----
+## Backend
 
-### 🧠 Python Expertise (NEW CORE LAYER)
+```txt
+Node.js
+Express.js
+tRPC
+REST APIs
+Authentication Systems
+Session Management
+API Architecture
+```
 
-- Backend APIs (FastAPI / Flask basics)
-- Automation Scripts
-- AI / ML Integration (API-level)
-- File processing & system scripting
-- Performance-focused Python coding
+## Database & Infrastructure
 
----
+```txt
+MySQL
+Microsoft SQL Server
+Drizzle ORM
+AWS S3
+Database Architecture
+Query Optimization
+```
 
-### 🛠 Tools & Workflow
+## AI & Automation
 
-Git • GitHub • VS Code • Visual Studio  
-Postman • Debugging • API Testing
+```txt
+OpenAI Integration
+AI Systems
+Automation Workflows
+Prompt Engineering
+Knowledge Systems
+```
 
----
+## Engineering
 
-## ⚙️ Engineering Principles
-
-- Clean Code > Clever Code  
-- Modular architecture over monolithic logic  
-- Performance-aware development  
-- Strong typing mindset even in dynamic languages  
-- Separation of concerns in all systems  
-
----
-
-## 📌 Selected Work
-
-### 🧠 DSA & Problem Solving System
-C++ + Python structured problem-solving repository  
-Focus: recursion, DP, graphs, optimization
-
----
-
-### 🔧 Backend API System (.NET + Python)
-Hybrid backend architecture:
-- .NET for core APIs
-- Python for automation & utility services
-
----
-
-### ⚡ Automation Engine (Python)
-System-level scripts for:
-- file processing  
-- workflow automation  
-- API data handling  
+```txt
+System Design
+Software Architecture
+Product Engineering
+OOP
+DSA
+Scalable Systems
+```
 
 ---
 
-### 🌐 Full Stack Application
-React frontend + backend APIs  
-Clean architecture + scalable structure
+# Flagship Project
+
+## InWuxi — International City Gateway
+
+Role: CTO & Core Technical Member
+
+InWuxi is a multilingual city platform connecting international users, organizations, businesses, volunteers, and local services across Wuxi, China.
+
+### Responsibilities
+
+- Technical vision & strategy
+- Platform architecture
+- Web & mobile ecosystem development
+- Multilingual infrastructure
+- Authentication & data architecture
+- AI-powered knowledge systems
+- Multi-city scalability planning
+
+### Technology Stack
+
+```txt
+React 19
+Next.js
+TypeScript
+Tailwind CSS v4
+Node.js
+tRPC
+Drizzle ORM
+MySQL
+Lucia Auth
+AWS S3
+Stripe API
+React Native
+```
 
 ---
 
-## 📊 Currently Improving
+# Professional Experience
 
-- Advanced DSA (Graph, DP, Greedy)
-- System Design (Low-level + High-level)
-- Python backend scaling patterns
-- API optimization & latency reduction
-- Clean architecture in multi-language systems
+## AnyWin Human Tech Limited
 
----
+### Chief Technology Officer (CTO) & Shareholder
 
-## 🌍 Vision
-
-To become a globally strong software engineer capable of building:
-
-- High-performance backend systems  
-- AI-integrated applications  
-- Scalable distributed architectures  
-- Production-grade software systems  
+- Engineering leadership
+- Product architecture
+- Technology strategy
+- System planning
+- Technical execution
 
 ---
 
-## 📫 Connect
+## InWuxi Platform
 
-Portfolio: https://sadekulislam.netlify.app  
-LinkedIn: https://www.linkedin.com/in/sadekulislam-dev   
-Email: sadekul.dev@gmail.com  
+### Core Technical Member
+
+- Full-stack development
+- Product engineering
+- Platform scalability
+- International user systems
 
 ---
 
-## 🧭 Closing Thought
+## ICT Bangladesh
 
-> “Real engineers don’t just write code. They design systems that survive scale, time, and complexity.”
+### Frontend Developer
+
+Jan 2025 – Apr 2025
+
+- Frontend engineering
+- Responsive systems
+- AI-integrated solutions
+- Team collaboration
+
+---
+
+# Education
+
+## Wuxi University of Technology
+
+Bachelor of Software Engineering
+
+2025 — 2029
+
+---
+
+## ICT Bangladesh
+
+Software Engineering Program
+
+2024 — 2025
+
+---
+
+# GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sadekul-me&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadekul-me&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sadekul-me&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# Vision
+
+To become a globally impactful software engineer capable of designing:
+
+- AI-powered platforms
+- Intelligent software ecosystems
+- Scalable backend architectures
+- High-performance distributed systems
+- Technology that serves millions of users
+
+---
+
+# Connect
+
+Portfolio:
+https://sadekulislam.netlify.app
+
+LinkedIn:
+https://www.linkedin.com/in/sadekulislam-dev
+
+GitHub:
+https://github.com/sadekul-me
+
+Email:
+sadekul.dev@gmail.com
+
+---
+
+<div align="center">
+
+### Building technology that scales globally and creates meaningful impact.
+
+</div>
