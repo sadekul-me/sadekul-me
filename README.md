@@ -2,16 +2,16 @@
 
 # Sadekul Islam (Lì Ào / 利奥)
 
-### Software Engineer • CTO at AnyWin Human Tech Limited • Full-Stack Product Builder
+### Software Engineering Student • CTO & Co-Founder at AnyWin Human Tech Limited • Full-Stack Product Engineer
 
-Building AI-powered systems, scalable platforms, and international digital ecosystems.
+Building AI-powered systems, scalable platforms, multilingual digital ecosystems, and technology that creates meaningful impact.
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-black?style=for-the-badge&logo=vercel)](https://sadekulislam.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sadekulislam-dev)
-[![GitHub](https://img.shields.io/badge/GitHub-Projects-black?style=for-the-badge&logo=github)](https://github.com/sadekul-me)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:sadekul.dev@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-black?style=for-the-badge\&logo=vercel)](https://sadekulislam.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/sadekulislam-dev)
+[![GitHub](https://img.shields.io/badge/GitHub-Projects-black?style=for-the-badge\&logo=github)](https://github.com/sadekul-me)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge\&logo=gmail)](mailto:sadekul.dev@gmail.com)
 
 </div>
 
@@ -19,22 +19,22 @@ Building AI-powered systems, scalable platforms, and international digital ecosy
 
 # About Me
 
-I am a Software Engineering student at Wuxi University of Technology, China, and currently serve as CTO & Shareholder at AnyWin Human Tech Limited.
+I am a Software Engineering student at Wuxi University of Technology, China, currently serving as CTO & Co-Founder at AnyWin Human Tech Limited.
 
-My work focuses on architecting scalable software systems, multilingual platforms, AI-powered applications, and modern digital products.
+My work focuses on architecting scalable software systems, multilingual platforms, AI-powered applications, and modern digital products that solve real-world problems.
 
-I enjoy solving engineering problems that sit at the intersection of technology, product design, and real-world user needs.
+I enjoy working at the intersection of software engineering, product development, system architecture, and user experience while continuously expanding my technical knowledge and leadership capabilities.
 
 ---
 
 # Current Mission
 
-- Building international-scale digital platforms
-- Engineering AI-powered applications
-- Advancing in System Design & Architecture
-- Mastering Data Structures & Algorithms
-- Developing scalable backend ecosystems
-- Creating technology with long-term impact
+* Building international-scale digital platforms
+* Engineering AI-powered applications
+* Advancing in System Design & Software Architecture
+* Mastering Data Structures & Algorithms
+* Developing scalable backend ecosystems
+* Creating technology with long-term impact
 
 ---
 
@@ -42,64 +42,35 @@ I enjoy solving engineering problems that sit at the intersection of technology,
 
 ## Languages
 
-```txt
 C • C++ • C# • JavaScript • TypeScript • Python • SQL
-```
 
 ## Frontend
 
-```txt
-React
-Next.js
-Tailwind CSS
-HTML5
-CSS3
-Responsive UI Engineering
-```
+React • Next.js • Tailwind CSS • HTML5 • CSS3 • Responsive UI Engineering
 
 ## Backend
 
-```txt
-Node.js
-Express.js
-tRPC
-REST APIs
-Authentication Systems
-Session Management
-API Architecture
-```
+Node.js • Express.js • tRPC • REST APIs • Authentication Systems • Session Management • API Architecture
 
 ## Database & Infrastructure
 
-```txt
-MySQL
-Microsoft SQL Server
-Drizzle ORM
-AWS S3
-Database Architecture
-Query Optimization
-```
+MySQL • Microsoft SQL Server • Drizzle ORM • AWS S3 • Database Architecture • Query Optimization
+
+## Mobile
+
+React Native • Mobile Web Applications
 
 ## AI & Automation
 
-```txt
-OpenAI Integration
-AI Systems
-Automation Workflows
-Prompt Engineering
-Knowledge Systems
-```
+OpenAI Integration • AI Systems • Automation Workflows • Prompt Engineering • Knowledge Systems
 
 ## Engineering
 
-```txt
-System Design
-Software Architecture
-Product Engineering
-OOP
-DSA
-Scalable Systems
-```
+System Design • Software Architecture • Product Engineering • OOP • DSA • Scalable Systems
+
+## Tools
+
+Git • GitHub • VS Code • Figma • Postman
 
 ---
 
@@ -107,36 +78,30 @@ Scalable Systems
 
 ## InWuxi — International City Gateway
 
-Role: CTO & Core Technical Member
+**Role:** CTO & Co-Founder
 
 InWuxi is a multilingual city platform connecting international users, organizations, businesses, volunteers, and local services across Wuxi, China.
 
+### Supported Languages
+
+* Chinese (中文)
+* English
+* Korean (한국어)
+* Russian (Русский)
+
 ### Responsibilities
 
-- Technical vision & strategy
-- Platform architecture
-- Web & mobile ecosystem development
-- Multilingual infrastructure
-- Authentication & data architecture
-- AI-powered knowledge systems
-- Multi-city scalability planning
+* Technical vision and strategy
+* Full-stack architecture design
+* Web and mobile ecosystem development
+* Authentication and data architecture
+* AI-powered knowledge systems
+* Product engineering and platform scalability
+* Future multi-city expansion planning
 
 ### Technology Stack
 
-```txt
-React 19
-Next.js
-TypeScript
-Tailwind CSS v4
-Node.js
-tRPC
-Drizzle ORM
-MySQL
-Lucia Auth
-AWS S3
-Stripe API
-React Native
-```
+React 19 • Next.js • TypeScript • Tailwind CSS v4 • Node.js • tRPC • Drizzle ORM • MySQL • Lucia Auth • AWS S3 • Stripe API • React Native
 
 ---
 
@@ -144,13 +109,14 @@ React Native
 
 ## AnyWin Human Tech Limited
 
-### Chief Technology Officer (CTO) & Shareholder
+### Chief Technology Officer (CTO) & Co-Founder
 
-- Engineering leadership
-- Product architecture
-- Technology strategy
-- System planning
-- Technical execution
+* Engineering leadership
+* Product architecture
+* Technology strategy
+* System planning
+* Technical execution
+* Platform scalability
 
 ---
 
@@ -158,10 +124,11 @@ React Native
 
 ### Core Technical Member
 
-- Full-stack development
-- Product engineering
-- Platform scalability
-- International user systems
+* Full-stack development
+* Product engineering
+* Platform scalability
+* International user systems
+* AI-powered platform solutions
 
 ---
 
@@ -171,10 +138,10 @@ React Native
 
 Jan 2025 – Apr 2025
 
-- Frontend engineering
-- Responsive systems
-- AI-integrated solutions
-- Team collaboration
+* Frontend engineering
+* Responsive systems
+* AI-integrated solutions
+* Team collaboration
 
 ---
 
@@ -214,27 +181,27 @@ Software Engineering Program
 
 To become a globally impactful software engineer capable of designing:
 
-- AI-powered platforms
-- Intelligent software ecosystems
-- Scalable backend architectures
-- High-performance distributed systems
-- Technology that serves millions of users
+* AI-powered platforms
+* Intelligent software ecosystems
+* Scalable backend architectures
+* High-performance distributed systems
+* Technology that serves millions of users
 
 ---
 
 # Connect
 
-Portfolio:
+Portfolio
 https://sadekulislam.netlify.app
 
-LinkedIn:
+LinkedIn
 https://www.linkedin.com/in/sadekulislam-dev
 
-GitHub:
+GitHub
 https://github.com/sadekul-me
 
-Email:
-sadekul.dev@gmail.com
+Email
+[sadekul.dev@gmail.com](mailto:sadekul.dev@gmail.com)
 
 ---
 
