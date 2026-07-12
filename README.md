@@ -49,6 +49,18 @@
 
 ---
 
+## Navigation
+
+<div align="center">
+
+| About | Focus | Stack | Project | Analytics | Connect |
+|:-----:|:-----:|:-----:|:-----:|:---------:|:-------:|
+| [About Me](#about-me) | [Engineering Focus](#engineering-focus) | [Tech Stack](#advanced-technology-stack) | [InWuxi](#featured-project) | [GitHub Analytics](#github-analytics--engineering-activity) | [Let's Connect](#lets-build-something-meaningful) |
+
+</div>
+
+---
+
 ## About Me
 
 I am a **Software Engineering student at Wuxi University of Technology, China**, currently serving as **CTO & Co-Founder at AnyWin Human Tech Limited**.
@@ -104,17 +116,8 @@ Alongside building production-focused products, I continuously strengthen my kno
 
 ---
 
-<!-- PHASE 1 COMPLETE
-Included:
-- Premium hero
-- Animated header
-- Custom SVG banner
-- Social badges
-- Visitor counter
-- Typing animation
-- About Me
-- Current Mission
--->
+---
+
 <img src="./assets/section-divider.svg" width="100%" alt="" />
 
 ## Engineering Focus
@@ -520,13 +523,261 @@ My role combines hands-on engineering with technical leadership. I contribute to
 
 </div>
 
-<!-- PHASE 2 COMPLETE
-Included:
-- Engineering Focus
-- Advanced Tech Stack with icons
-- Architecture Skills
-- AI & Automation Skills
-- Featured Project: InWuxi
-- Professional Experience
-- Education
--->
+---
+
+<img src="./assets/section-divider.svg" width="100%" alt="" />
+
+## Engineering Roadmap
+
+<div align="center">
+
+<p>
+  My engineering journey is intentionally structured — from deep fundamentals to global-scale impact.<br />
+  Every phase strengthens the next, turning knowledge into systems that can grow responsibly.
+</p>
+
+<img src="./assets/engineering-roadmap.svg" width="100%" alt="Engineering Roadmap — Foundation, Architecture, Intelligence, Global Impact" />
+
+</div>
+
+<table>
+  <tr>
+    <td width="25%" valign="top" align="center">
+      <h3>Foundation</h3>
+      <p><code>Phase 01</code></p>
+      <ul align="left">
+        <li>Data Structures & Algorithms</li>
+        <li>Programming fundamentals</li>
+        <li>Database & backend basics</li>
+        <li>Software engineering discipline</li>
+      </ul>
+    </td>
+    <td width="25%" valign="top" align="center">
+      <h3>Architecture</h3>
+      <p><code>Phase 02</code></p>
+      <ul align="left">
+        <li>System & platform design</li>
+        <li>API-first development</li>
+        <li>Auth, sessions & identity</li>
+        <li>Scalable service boundaries</li>
+      </ul>
+    </td>
+    <td width="25%" valign="top" align="center">
+      <h3>Intelligence</h3>
+      <p><code>Phase 03</code></p>
+      <ul align="left">
+        <li>AI-powered product features</li>
+        <li>Knowledge & retrieval systems</li>
+        <li>Automation workflows</li>
+        <li>Context-aware experiences</li>
+      </ul>
+    </td>
+    <td width="25%" valign="top" align="center">
+      <h3>Global Impact</h3>
+      <p><code>Phase 04</code></p>
+      <ul align="left">
+        <li>Multilingual platforms</li>
+        <li>Multi-city expansion</li>
+        <li>Technology leadership</li>
+        <li>Systems serving millions</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+
+> **Continuous Learning · Consistent Building · Responsible Leadership**
+
+</div>
+
+---
+
+<img src="./assets/section-divider.svg" width="100%" alt="" />
+
+## GitHub Analytics & Engineering Activity
+
+<div align="center">
+
+<p>
+  Real engineering is measured by consistency, depth, and continuous improvement.<br />
+  These live analytics reflect my coding activity, language focus, and long-term development discipline.
+</p>
+
+<img src="https://img.shields.io/badge/Live_Data-GitHub_Analytics-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Live GitHub Analytics" />
+<img src="https://img.shields.io/badge/Focus-Full--Stack_Engineering-0F766E?style=for-the-badge" alt="Full-Stack Engineering Focus" />
+<img src="https://img.shields.io/badge/Discipline-Consistent_Building-7C3AED?style=for-the-badge" alt="Consistent Building" />
+
+<br /><br />
+
+</div>
+
+<table>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <h3>GitHub Statistics</h3>
+      <p>Repositories, contributions, and overall engineering presence.</p>
+      <a href="https://github.com/sadekul-me">
+        <img
+          src="https://github-readme-stats.vercel.app/api?username=sadekul-me&show_icons=true&theme=tokyonight&title_color=58A6FF&icon_color=818CF8&text_color=E2E8F0&bg_color=0F172A&border_color=1E293B&border_radius=12&include_all_commits=true&count_private=false&hide_title=false&custom_title=Sadekul%27s%20GitHub%20Stats"
+          alt="Sadekul Islam GitHub Statistics"
+          width="100%"
+        />
+      </a>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <h3>Contribution Streak</h3>
+      <p>Daily consistency, momentum, and sustained development habits.</p>
+      <a href="https://github.com/sadekul-me">
+        <img
+          src="https://github-readme-streak-stats.demolab.com/?user=sadekul-me&theme=tokyonight&hide_border=false&border_radius=12&stroke=1E293B&ring=58A6FF&fire=818CF8&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=58A6FF&sideLabels=94A3B8&dates=64748B"
+          alt="Sadekul Islam GitHub Contribution Streak"
+          width="100%"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<div align="center">
+
+<h3>Most Used Languages</h3>
+<p>
+  A live snapshot of the technologies I actively build with across repositories and production-focused projects.
+</p>
+
+<a href="https://github.com/sadekul-me">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadekul-me&layout=compact&theme=tokyonight&title_color=58A6FF&text_color=E2E8F0&bg_color=0F172A&border_color=1E293B&border_radius=12&langs_count=10&hide=html,css,scss&custom_title=Top%20Languages%20%26%20Stack%20Focus"
+    alt="Sadekul Islam Top Programming Languages"
+    width="70%"
+  />
+</a>
+
+<br /><br />
+
+<h3>Contribution Activity Graph</h3>
+<p>
+  Long-term consistency across commits, collaboration, and open engineering work over time.
+</p>
+
+<a href="https://github.com/sadekul-me">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=sadekul-me&theme=tokyo-night&hide_border=true&bg_color=0F172A&color=58A6FF&line=818CF8&point=22D3EE&area=true&custom_title=Contribution%20Activity&custom_title_color=58A6FF&radius=6"
+    alt="Sadekul Islam GitHub Contribution Activity Graph"
+    width="100%"
+  />
+</a>
+
+</div>
+
+---
+
+## Skills at a Glance
+
+<div align="center">
+
+<p>
+  Beyond analytics, this is the engineering identity behind the work — the disciplines I practice daily<br />
+  and the capabilities I bring to product, platform, and system-level challenges.
+</p>
+
+</div>
+
+<table>
+  <tr>
+    <td width="33%" valign="top" align="center">
+      <h3>Core Engineering</h3>
+      <br />
+      <img src="https://skillicons.dev/icons?i=ts,js,python,c,cpp,cs" alt="Core languages" />
+      <br /><br />
+      <img src="https://img.shields.io/badge/TypeScript-Type--Safe_Systems-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/JavaScript-Product_Logic-F7DF1E?style=flat-square&logo=javascript&logoColor=000000" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/Python-Automation_%26_AI-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/C%2FC%2B%2B-Fundamentals-00599C?style=flat-square&logo=c&logoColor=white" alt="C and C++" />
+      <img src="https://img.shields.io/badge/C%23-Application_Logic-512BD4?style=flat-square&logo=csharp&logoColor=white" alt="C Sharp" />
+    </td>
+    <td width="33%" valign="top" align="center">
+      <h3>Product & Platform</h3>
+      <br />
+      <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind" alt="Product and platform stack" />
+      <br /><br />
+      <img src="https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react&logoColor=000000" alt="React 19" />
+      <img src="https://img.shields.io/badge/Next.js-Full--Stack_Web-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+      <img src="https://img.shields.io/badge/Node.js-Backend_Services-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+      <img src="https://img.shields.io/badge/tRPC-Type--Safe_APIs-2596BE?style=flat-square" alt="tRPC" />
+      <img src="https://img.shields.io/badge/Tailwind-v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+    </td>
+    <td width="33%" valign="top" align="center">
+      <h3>Data, Cloud & AI</h3>
+      <br />
+      <img src="https://skillicons.dev/icons?i=mysql,aws,docker,nginx,git" alt="Data cloud and AI stack" />
+      <br /><br />
+      <img src="https://img.shields.io/badge/MySQL-Relational_Data-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+      <img src="https://img.shields.io/badge/Drizzle_ORM-Type--Safe_Layer-C5F74F?style=flat-square&logo=drizzle&logoColor=000000" alt="Drizzle ORM" />
+      <img src="https://img.shields.io/badge/AWS-Cloud_Infrastructure-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
+      <img src="https://img.shields.io/badge/OpenAI-AI_Integration-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
+      <img src="https://img.shields.io/badge/Docker-Deployment-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<div align="center">
+
+<h3>GitHub Achievements</h3>
+<p>Recognition earned through consistent contribution, collaboration, and repository activity.</p>
+
+<a href="https://github.com/sadekul-me">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=sadekul-me&theme=onedark&column=4&margin-w=15&margin-h=15&no-bg=true"
+    alt="Sadekul Islam GitHub Profile Trophies"
+    width="100%"
+  />
+</a>
+
+</div>
+
+---
+
+<img src="./assets/section-divider.svg" width="100%" alt="" />
+
+<div align="center">
+
+## Let's Build Something Meaningful
+
+<p>
+  I am always interested in ambitious products, scalable platforms, AI-powered systems,<br />
+  and engineering collaborations that create real global value.
+</p>
+
+<p>
+  <a href="https://sadekulislam.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-Explore_My_Work-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/sadekulislam-dev">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect_With_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:sadekul.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Start_a_Conversation-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<br />
+
+<img src="./assets/premium-footer.svg" width="100%" alt="Building technology that scales globally and creates meaningful impact — Sadekul Islam" />
+
+<br /><br />
+
+<img src="https://img.shields.io/badge/Status-Building_the_Future-2563EB?style=for-the-badge" alt="Building the Future" />
+<img src="https://img.shields.io/badge/Role-CTO_%26_Full--Stack_Engineer-111827?style=for-the-badge" alt="CTO and Full-Stack Engineer" />
+<img src="https://img.shields.io/badge/Mission-Global_Technology_Impact-0F766E?style=for-the-badge" alt="Global Technology Impact" />
+
+<br /><br />
+
+**Thanks for visiting my profile. Let's engineer systems that matter.**
+
+</div>
