@@ -1,0 +1,38 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="80" y1="20" x2="1120" y2="240" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#050816"/>
+      <stop offset="0.5" stop-color="#0B1739"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="stroke" x1="140" y1="60" x2="1060" y2="210" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8"/>
+      <stop offset="0.5" stop-color="#818CF8"/>
+      <stop offset="1" stop-color="#22D3EE"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="translate(600 260) rotate(-90) scale(230 650)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2563EB" stop-opacity="0.32"/>
+      <stop offset="1" stop-color="#2563EB" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="260" rx="28" fill="url(#bg)"/>
+  <rect width="1200" height="260" rx="28" fill="url(#glow)"/>
+  <rect x="42" y="42" width="1116" height="176" rx="22" stroke="url(#stroke)" stroke-opacity="0.38"/>
+
+  <path d="M100 82H445" stroke="url(#stroke)" stroke-width="2"/>
+  <path d="M755 82H1100" stroke="url(#stroke)" stroke-width="2"/>
+  <circle cx="600" cy="82" r="8" fill="#0F172A" stroke="#818CF8" stroke-width="3"/>
+  <circle cx="600" cy="82" r="3" fill="#38BDF8"/>
+
+  <text x="600" y="135" text-anchor="middle" fill="white" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="30" font-weight="800">
+    Building technology that scales globally
+  </text>
+  <text x="600" y="175" text-anchor="middle" fill="#A5B4FC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" font-weight="600">
+    and creates meaningful impact.
+  </text>
+
+  <text x="600" y="235" text-anchor="middle" fill="#64748B" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" letter-spacing="2">
+    SADEKUL ISLAM • LÌ ÀO / 利奥 • ENGINEERING THE FUTURE, ONE SYSTEM AT A TIME
+  </text>
+</svg>

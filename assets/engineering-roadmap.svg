@@ -1,0 +1,38 @@
+<svg width="1200" height="310" viewBox="0 0 1200 310" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="line" x1="100" y1="155" x2="1100" y2="155" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8"/>
+      <stop offset="0.5" stop-color="#818CF8"/>
+      <stop offset="1" stop-color="#22D3EE"/>
+    </linearGradient>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#000000" flood-opacity="0.28"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="310" rx="26" fill="#08111F"/>
+  <path d="M120 155H1080" stroke="url(#line)" stroke-width="4" stroke-linecap="round"/>
+
+  <g filter="url(#shadow)">
+    <circle cx="170" cy="155" r="27" fill="#0F172A" stroke="#38BDF8" stroke-width="4"/>
+    <circle cx="455" cy="155" r="27" fill="#0F172A" stroke="#60A5FA" stroke-width="4"/>
+    <circle cx="745" cy="155" r="27" fill="#0F172A" stroke="#818CF8" stroke-width="4"/>
+    <circle cx="1030" cy="155" r="27" fill="#0F172A" stroke="#22D3EE" stroke-width="4"/>
+  </g>
+
+  <text x="170" y="95" text-anchor="middle" fill="#E2E8F0" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" font-weight="700">Foundation</text>
+  <text x="170" y="225" text-anchor="middle" fill="#94A3B8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15">Deep engineering fundamentals</text>
+
+  <text x="455" y="95" text-anchor="middle" fill="#E2E8F0" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" font-weight="700">Architecture</text>
+  <text x="455" y="225" text-anchor="middle" fill="#94A3B8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15">Scalable systems and platforms</text>
+
+  <text x="745" y="95" text-anchor="middle" fill="#E2E8F0" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" font-weight="700">Intelligence</text>
+  <text x="745" y="225" text-anchor="middle" fill="#94A3B8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15">AI, automation and knowledge</text>
+
+  <text x="1030" y="95" text-anchor="middle" fill="#E2E8F0" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" font-weight="700">Global Impact</text>
+  <text x="1030" y="225" text-anchor="middle" fill="#94A3B8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15">Technology serving millions</text>
+
+  <text x="600" y="286" text-anchor="middle" fill="#64748B" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" letter-spacing="2">
+    CONTINUOUS LEARNING • CONSISTENT BUILDING • RESPONSIBLE LEADERSHIP
+  </text>
+</svg>
