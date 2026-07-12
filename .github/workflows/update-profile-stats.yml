@@ -1,0 +1,57 @@
+name: Update Profile Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate profile summary cards (public + private repos)
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: main
+          UTC_OFFSET: 8
+          AUTO_PUSH: false
+
+      - name: Generate GitHub stats card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight&title_color=58A6FF&icon_color=818CF8&text_color=E2E8F0&bg_color=0F172A&border_color=1E293B&border_radius=12&include_all_commits=true&count_private=true&custom_title=Sadekul%27s%20GitHub%20Stats
+          path: assets/github-stats/stats.svg
+          token: ${{ secrets.GH_PAT }}
+
+      - name: Generate top languages card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&theme=tokyonight&title_color=58A6FF&text_color=E2E8F0&bg_color=0F172A&border_color=1E293B&border_radius=12&langs_count=10&hide=html,css,scss&count_private=true&custom_title=Top%20Languages%20%26%20Stack%20Focus
+          path: assets/github-stats/top-langs.svg
+          token: ${{ secrets.GH_PAT }}
+
+      - name: Generate contribution streak card
+        uses: zients/github-readme-streak-stats@v2
+        with:
+          options: user=${{ github.repository_owner }}&theme=tokyonight&hide_border=false&border_radius=12&stroke=1E293B&ring=58A6FF&fire=818CF8&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=58A6FF&sideLabels=94A3B8&dates=64748B
+          path: assets/github-stats/streak.svg
+          token: ${{ secrets.GH_PAT }}
+
+      - name: Commit and push updated stats
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile-summary-card-output/tokyonight/ assets/github-stats/
+          git diff --cached --quiet && echo "No changes to commit." && exit 0
+          git commit -m "Update profile stats (including private repos)"
+          git push

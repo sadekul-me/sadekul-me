@@ -601,7 +601,7 @@ My role combines hands-on engineering with technical leadership. I contribute to
 
 <p>
   Real engineering is measured by consistency, depth, and continuous improvement.<br />
-  These live analytics reflect my coding activity, language focus, and long-term development discipline.
+  These live analytics include <strong>public and private repository</strong> activity and refresh automatically every day.
 </p>
 
 <img src="https://img.shields.io/badge/Live_Data-GitHub_Analytics-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Live GitHub Analytics" />
@@ -619,7 +619,7 @@ My role combines hands-on engineering with technical leadership. I contribute to
       <p>Repositories, contributions, and overall engineering presence.</p>
       <a href="https://github.com/sadekul-me">
         <img
-          src="https://github-readme-stats-alpha.vercel.app/api?username=sadekul-me&show_icons=true&theme=tokyonight&title_color=58A6FF&icon_color=818CF8&text_color=E2E8F0&bg_color=0F172A&border_color=1E293B&border_radius=12&include_all_commits=true&count_private=false&hide_title=false&custom_title=Sadekul%27s%20GitHub%20Stats"
+          src="./assets/github-stats/stats.svg"
           alt="Sadekul Islam GitHub Statistics"
           width="100%"
         />
@@ -630,7 +630,7 @@ My role combines hands-on engineering with technical leadership. I contribute to
       <p>Daily consistency, momentum, and sustained development habits.</p>
       <a href="https://github.com/sadekul-me">
         <img
-          src="https://streak-stats.demolab.com/?user=sadekul-me&theme=tokyonight&hide_border=false&border_radius=12&stroke=1E293B&ring=58A6FF&fire=818CF8&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=58A6FF&sideLabels=94A3B8&dates=64748B"
+          src="./assets/github-stats/streak.svg"
           alt="Sadekul Islam GitHub Contribution Streak"
           width="100%"
         />
@@ -650,7 +650,7 @@ My role combines hands-on engineering with technical leadership. I contribute to
 
 <a href="https://github.com/sadekul-me">
   <img
-    src="https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=sadekul-me&layout=compact&theme=tokyonight&title_color=58A6FF&text_color=E2E8F0&bg_color=0F172A&border_color=1E293B&border_radius=12&langs_count=10&hide=html,css,scss&custom_title=Top%20Languages%20%26%20Stack%20Focus"
+    src="./assets/github-stats/top-langs.svg"
     alt="Sadekul Islam Top Programming Languages"
     width="70%"
   />
@@ -736,7 +736,7 @@ My role combines hands-on engineering with technical leadership. I contribute to
     <td width="50%" valign="top" align="center">
       <a href="https://github.com/sadekul-me">
         <img
-          src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sadekul-me&theme=tokyonight"
+          src="./profile-summary-card-output/tokyonight/0-profile-details.svg"
           alt="Sadekul Islam GitHub Profile Details"
           width="100%"
         />
@@ -745,7 +745,7 @@ My role combines hands-on engineering with technical leadership. I contribute to
     <td width="50%" valign="top" align="center">
       <a href="https://github.com/sadekul-me">
         <img
-          src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sadekul-me&theme=tokyonight"
+          src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg"
           alt="Sadekul Islam Repositories Per Language"
           width="100%"
         />
@@ -756,7 +756,7 @@ My role combines hands-on engineering with technical leadership. I contribute to
     <td width="50%" valign="top" align="center">
       <a href="https://github.com/sadekul-me">
         <img
-          src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sadekul-me&theme=tokyonight"
+          src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg"
           alt="Sadekul Islam Most Commit Language"
           width="100%"
         />
@@ -765,7 +765,7 @@ My role combines hands-on engineering with technical leadership. I contribute to
     <td width="50%" valign="top" align="center">
       <a href="https://github.com/sadekul-me">
         <img
-          src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sadekul-me&theme=tokyonight"
+          src="./profile-summary-card-output/tokyonight/3-stats.svg"
           alt="Sadekul Islam GitHub Contribution Stats"
           width="100%"
         />
