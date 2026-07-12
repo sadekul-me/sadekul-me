@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/sadekul-banner.svg" width="100%" alt="Sadekul Islam — CTO, Full-Stack Product Engineer and Software Engineering Student" />
+<img src="./assets/sadekul-banner-v1.svg" width="100%" alt="Sadekul Islam — CTO, Full-Stack Product Engineer and Software Engineering Student" />
 
 <br />
 
